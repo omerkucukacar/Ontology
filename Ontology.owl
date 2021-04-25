@@ -1,0 +1,1040 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:4db936dd-cf61-43ee-9258-0fcffe70eac6#"
+     xml:base="urn:webprotege:ontology:4db936dd-cf61-43ee-9258-0fcffe70eac6"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:4db936dd-cf61-43ee-9258-0fcffe70eac6"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/coverage -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/coverage"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/format -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/format"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/language -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/language"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/publisher -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/subject -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/subject"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/title -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/title"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/type -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/type"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R2jLRFnpshsmfCndKB5VZi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R2jLRFnpshsmfCndKB5VZi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RSQa61mZ8eUVOJQCLpxMeR"/>
+        <rdfs:label>6-7 Eylül Olayları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R4zsXk5V5yZtDJipYSGRD9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R4zsXk5V5yZtDJipYSGRD9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Kaçırma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R72ds3JnrbM53vxy24lkZU2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R72ds3JnrbM53vxy24lkZU2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBoMsnPFYTCM7vFUvRgL6Eq"/>
+        <rdfs:label>Savaş suçlarıyla suçlanan kişiler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7OA1vroXOjsqTmqDVV2Ogq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7OA1vroXOjsqTmqDVV2Ogq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7e6zFi4nBCHlTKZ8uEJmSs"/>
+        <rdfs:label>Vatana ihanetten hüküm giyenler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7OmxrSkGo3PwnNo39qIngm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7OmxrSkGo3PwnNo39qIngm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9qOvvNRZq0zwbwVkwtcALU"/>
+        <rdfs:label>Milletlerine göre kundakçılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7PbttAQZi8rU0ygHZriJKs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7PbttAQZi8rU0ygHZriJKs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Fiziksel İstismar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7RKxBVwZn2zub18kXpQSVZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7RKxBVwZn2zub18kXpQSVZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDSqxBP1ZBFACSXpQtxXQoT"/>
+        <rdfs:label>Ülkelere Göre Suç</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7SRtFsAOVB36QotegQHrOi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7SRtFsAOVB36QotegQHrOi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Nefret Suçu</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7e6zFi4nBCHlTKZ8uEJmSs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7e6zFi4nBCHlTKZ8uEJmSs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDxAyijAxooN8RUqjlKe34h"/>
+        <rdfs:label>Vatana ihanet suçlamasıyla suçlananlar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7eJcRMyxWkl2s0lN48T4KT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7eJcRMyxWkl2s0lN48T4KT">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9BgbMipkdXhh3lCSxgFaJw"/>
+        <rdfs:label>Çocuk fuhuşu ile ilgili eserler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7excQtYQIyTXLPCoxmQrla -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7excQtYQIyTXLPCoxmQrla">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8brq91WAZCZRt81gmPDgnO"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Abdurrahman ÖVÜN</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yeşil GÖKALP</dc:creator>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dergipark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KADIN VE ÇOCUK İSTİSMARI</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Çocuk istismarı ile ilgili eserler</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7jee5r7DYOgAJZZQ4pWuUt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7jee5r7DYOgAJZZQ4pWuUt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9ZyZvmAa5m4O9wAoro4vy"/>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</dc:publisher>
+        <dc:subject rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Naziler ve Suç</dc:subject>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nazilerin Sovyet savaş esirlerine karşı suç işlenmesinden sorumlu kişiler</dc:title>
+        <rdfs:label>Nazilerin Sovyet savaş esirlerine karşı suç işlenmesinden sorumlu kişiler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7oRYztSA1SCyhXkvQapTrB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7oRYztSA1SCyhXkvQapTrB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCCyzDhF4pJXOMReGjZ65K3"/>
+        <rdfs:label>Seks ticareti</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xzVWu5VXqlRycv8kYLFpm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7xzVWu5VXqlRycv8kYLFpm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCHsaSvAUmXpsvi94ITb12"/>
+        <dc:coverage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amerika</dc:coverage>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">James Cameron ve Stephanie Austin</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lightstorm Entertainment</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gerçek Yalanlar</dc:title>
+        <rdfs:label>Kaçırma ile ilgili eserler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7zrFydo57Uz2VLuZv8joh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7zrFydo57Uz2VLuZv8joh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Cinayet</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R867iQbT6cfpxvSwiG6ebE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R867iQbT6cfpxvSwiG6ebE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8sF9g0nmBbo6PoQmpOfVHD"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ayhan KARAKAŞ</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dergipark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çok Yönlü Bir Sivil Toplum Örgütü: Ahilik</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Ahilik‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R89tFbjHyWIAmT7NCf8ULL8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R89tFbjHyWIAmT7NCf8ULL8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7RKxBVwZn2zub18kXpQSVZ"/>
+        <rdfs:label>Ülkelere Göre Casusluk</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8HNxr87RDrhYB2ukpfzPGw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8HNxr87RDrhYB2ukpfzPGw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7PbttAQZi8rU0ygHZriJKs"/>
+        <rdfs:label>Aile içi şiddet‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8LlkuNI0rzmjYSdMapwmbp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8LlkuNI0rzmjYSdMapwmbp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R92FJEq38o6XwGKcBEHE9Qk"/>
+        <rdfs:label>Vergi kaçırma‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8NatvnG3fDP7GjyII3pXDn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8NatvnG3fDP7GjyII3pXDn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Kan Davası</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8XDpm9HlfmGQzRIjDOqhvi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8XDpm9HlfmGQzRIjDOqhvi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDZWTrXSCkjfyATJrT30NBz"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boey Tang POU</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DergiPark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Küresel Finansal Kriz: Avustralya’nın Karşı Atak Döngüsü</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Avustralyalı bilgi sızdırıcılar‎ Makale</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8brq91WAZCZRt81gmPDgnO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8brq91WAZCZRt81gmPDgnO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Çocuk İstismarı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8e7RNuhHstthRCvZXmPaVp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8e7RNuhHstthRCvZXmPaVp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCZO3vCYmdzIWGaz1kzBGlK"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Erdal BAYTEMİR</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5237 SAYILI TÜRK CEZA KANUNU
+KAPSAMINDA RÜŞVET SUÇU</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yönetmelik</dc:type>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rüşvet suçundan hüküm giyenler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8eCyzsL7ZLsB2CaRYtWGNG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8eCyzsL7ZLsB2CaRYtWGNG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R2jLRFnpshsmfCndKB5VZi"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harry Antonopoulos ve Lily Papadopoulos</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Village Roadshow Productions</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bir Tutam Baharat</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Film</dc:type>
+        <rdfs:label>6-7 Eylül Olayları&apos;nı konu alan filmler</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8nYJDz9YNsX9hDldEzzg90 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8nYJDz9YNsX9hDldEzzg90">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98dJhOJYKEpA6m3jY4Sjih"/>
+        <rdfs:label>Amerikalı bilgi sızdırıcılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8sF9g0nmBbo6PoQmpOfVHD -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8sF9g0nmBbo6PoQmpOfVHD">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RZ0fP2FmfsB7749tlePeX0"/>
+        <rdfs:label>Loncalar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R92FJEq38o6XwGKcBEHE9Qk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R92FJEq38o6XwGKcBEHE9Qk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Mali Suçlar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R94hF7LJ76R3nODfFN9MLlE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R94hF7LJ76R3nODfFN9MLlE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCAaKHW9Q5b8HXmCmpYps5Q"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolandırıcılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R95exQ0zRuHhksuIFpl6PH6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R95exQ0zRuHhksuIFpl6PH6">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7OmxrSkGo3PwnNo39qIngm"/>
+        <rdfs:label>Norveçli kundakçılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R98dJhOJYKEpA6m3jY4Sjih -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R98dJhOJYKEpA6m3jY4Sjih">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RLobwhhLwwqNzGXwmZjiAr"/>
+        <rdfs:label>Bilgi sızdırıcılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9BgbMipkdXhh3lCSxgFaJw -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9BgbMipkdXhh3lCSxgFaJw">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCCyzDhF4pJXOMReGjZ65K3"/>
+        <rdfs:label>Çocuk fuhuşu‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9EKLVNJhHUr6Fisj3mT7vU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9EKLVNJhHUr6Fisj3mT7vU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8HNxr87RDrhYB2ukpfzPGw"/>
+        <rdfs:label>Kurguda aile içi şiddet‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9I70CqSqPephszr4beAZY8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9I70CqSqPephszr4beAZY8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8NatvnG3fDP7GjyII3pXDn"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yakup Almelek</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arion Yayınevi</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kan Davası</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</dc:type>
+        <rdfs:label>Kan davası romanları‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9QS2HFGB2hx0M4Pktw36Vj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9QS2HFGB2hx0M4Pktw36Vj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RqqLFsWpUshIjdBJAu6MTN"/>
+        <dc:identifier rdf:resource="https://tr.wikipedia.org/wiki/%C3%87in%27de_yolsuzluk"/>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</dc:publisher>
+        <dc:subject rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yolsuzluk ve Rüşvet</dc:subject>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çin&apos;de yolsuzluk</dc:title>
+        <rdfs:label>Çin&apos;de yolsuzluk‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ZyZvmAa5m4O9wAoro4vy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9ZyZvmAa5m4O9wAoro4vy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RqavKSmYAt9OnDqlANQqzx"/>
+        <rdfs:label>Savaş suçlarından hüküm giyen Naziler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ZzZcFH6v2vBEHR92apCjy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9ZzZcFH6v2vBEHR92apCjy">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Polis Şiddeti</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dPGlqktxJDSGZS6oaDwFh -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9dPGlqktxJDSGZS6oaDwFh">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9EKLVNJhHUr6Fisj3mT7vU"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emine Öztürk</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gece Kitaplığı</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye&apos;de Aile İçi Şiddet</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitap</dc:type>
+        <rdfs:label>Aile içi şiddetle ilgili filmler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9dwj5naYuWPTAZhTxROPvF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9dwj5naYuWPTAZhTxROPvF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RPGokh2OWzzHg2s99K9ex1"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çağatay Togay</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sokak Kitapları Yayınları</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tecavüz Kaçınılmazsa Öldür</dc:title>
+        <rdfs:label>Mitolojik tecavüz kurbanları‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9qOvvNRZq0zwbwVkwtcALU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9qOvvNRZq0zwbwVkwtcALU">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rtp3VaJpIxN7AfO9E2MBDu"/>
+        <rdfs:label>Kundakçılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9u8FpQOZZnSeG8lNmPH6B8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9u8FpQOZZnSeG8lNmPH6B8">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7eJcRMyxWkl2s0lN48T4KT"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yeniden Sağlık ve Eğitim Derneği</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harika YÜCEL</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çocuklara Yönelik Cinsel Sömürü ve
+Biçimleri</dc:title>
+        <rdfs:label>Çocuk fuhuşu ile ilgili filmler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9utLLTRZluaVbt0E2mlXrE -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9utLLTRZluaVbt0E2mlXrE">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R4zsXk5V5yZtDJipYSGRD9"/>
+        <rdfs:label>Çocuk kaçırma‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBFaX4MJ51DNYN6Tgem1mcJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBFaX4MJ51DNYN6Tgem1mcJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7PbttAQZi8rU0ygHZriJKs"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İnan Keser</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Karahan Kitabevi</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çocuk Cinsel İstismarı</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roman</dc:type>
+        <rdfs:label>Çocuk istismarı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBI2ITWGQNGHjP1SdumLnzb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBI2ITWGQNGHjP1SdumLnzb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8nYJDz9YNsX9hDldEzzg90"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hatice Gülşen Birinci</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</dc:date>
+        <dc:format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:format>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türk Kütüphaneciliği</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amerika Birleşik Devletleri Bilgi Politikası</dc:title>
+        <rdfs:label>Amerikalı bilgi sızdırıcılar‎ makale</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBgr4ALW0WNBNP0L0GzuB2t -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBgr4ALW0WNBNP0L0GzuB2t">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R89tFbjHyWIAmT7NCf8ULL8"/>
+        <dc:coverage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye</dc:coverage>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</dc:publisher>
+        <dc:subject rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casusluk</dc:subject>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ülkelere Göre Casusluk</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suç</dc:type>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye&apos;de Casusluk</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBkbd009sOR3twIolC14Apn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBkbd009sOR3twIolC14Apn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R94hF7LJ76R3nODfFN9MLlE"/>
+        <rdfs:label>Milletlerine göre dolandırıcılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBnkocfON6qtrOj11NjPT39 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBnkocfON6qtrOj11NjPT39">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RLobwhhLwwqNzGXwmZjiAr"/>
+        <rdfs:label>Haber sızıntıları‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBoMsnPFYTCM7vFUvRgL6Eq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBoMsnPFYTCM7vFUvRgL6Eq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Savaş Suçları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBsoSozLK3mtsTiGHZQc3xz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBsoSozLK3mtsTiGHZQc3xz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RanGWR4gov0W3khvOH2hu4"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lars Joachim Grimstad</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2018</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Kültür Sanat Yayınları</dc:publisher>
+        <dc:subject rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çocuk Cinayetleri</dc:subject>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kayıp Çocuklar</dc:title>
+        <rdfs:label>Cinayet kurbanı çocuklar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCAaKHW9Q5b8HXmCmpYps5Q -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCAaKHW9Q5b8HXmCmpYps5Q">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8brq91WAZCZRt81gmPDgnO"/>
+        <rdfs:label>Dolandırıcılık</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCyzDhF4pJXOMReGjZ65K3 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCCyzDhF4pJXOMReGjZ65K3">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Cinsel Suçlar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCHsaSvAUmXpsvi94ITb12 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCHsaSvAUmXpsvi94ITb12">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R4zsXk5V5yZtDJipYSGRD9"/>
+        <rdfs:label>Kaçırma ile ilgili eserler</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCIDUmLLcY22ukh1dWqz8w6 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCIDUmLLcY22ukh1dWqz8w6">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Kurumsal Suç</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCPX1NSlyzUu6LZzbfAbsDi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCPX1NSlyzUu6LZzbfAbsDi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7OA1vroXOjsqTmqDVV2Ogq"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dudnikovo, Poltava Gubernyası</dc:creator>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grigori Kulik</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mein Yazısı</dc:type>
+        <rdfs:label>Vatana ihanet gerekçesiyle idam edilmiş kişiler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCZO3vCYmdzIWGaz1kzBGlK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCZO3vCYmdzIWGaz1kzBGlK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RqqLFsWpUshIjdBJAu6MTN"/>
+        <rdfs:label>Rüşvet‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCagE5styO4lPvCp6c2vzdQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCagE5styO4lPvCp6c2vzdQ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RggA7f8sGN38za6WiujluB"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fatih ÇAVDAR</dc:creator>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dergipark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TÜRKİYE VE AMERİKA BİRLEŞİK DEVLETLERİ’NDEKİ VERGİ
+DENETİMİ UYGULAMALARININ KARŞILAŞTIRILMASI</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Amerika Birleşik Devletleri&apos;nde vergi suçlarından hüküm giyenler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCiFokpwYvoDCd2F3mABmHS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCiFokpwYvoDCd2F3mABmHS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RRizrEZpFyXR0UX6kg4RBA"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bülent Yılmaz</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Researchgate</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye’de Telif Hakları İhlalleri: Yargıtay Kararları Çerçevesinde Bir Değerlendirme</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Telif hakkı ihlali‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCx1ITV5FEWBBMNsbJ27gYV -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCx1ITV5FEWBBMNsbJ27gYV">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCAaKHW9Q5b8HXmCmpYps5Q"/>
+        <rdfs:label>Dolandırıcılık ile ilgili eserler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCzmddIYbXHlfVLEsUH9cvF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCzmddIYbXHlfVLEsUH9cvF">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kırıkkale Üniversitesi Hukuk Fakültesi, Ceza ve Ceza Muhakemesi</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mustafa ÖZEN</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dergipark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Çevreye Karlı İşlenen Suçlar</dc:title>
+        <rdfs:label>Çevre Suçları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDKOqUOeuHmJcR9saNjQNNv -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDKOqUOeuHmJcR9saNjQNNv">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9ZzZcFH6v2vBEHR92apCjy"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YAVUZ BOZKURT</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dergipark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YENİ TOPLUMSAL HAREKETLER ÇERÇEVESİNDE ÇEVRECİ HAREKET VE GEZİ PARKI OLAYLARI</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Gezi Parkı olayları‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDSqxBP1ZBFACSXpQtxXQoT -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDSqxBP1ZBFACSXpQtxXQoT">
+        <rdfs:label>Suç Türleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDWzJFmg5tmz2akKXseHlTl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDWzJFmg5tmz2akKXseHlTl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBnkocfON6qtrOj11NjPT39"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roger CHAPMAN</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dergipark</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nixon’ın Tarihteki Yerini Saptamaya Çalışmak</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Watergate skandalı‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDZWTrXSCkjfyATJrT30NBz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDZWTrXSCkjfyATJrT30NBz">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98dJhOJYKEpA6m3jY4Sjih"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avustralyalı bilgi sızdırıcılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDoslu5aF4DDEdig73C5qjq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDoslu5aF4DDEdig73C5qjq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCAaKHW9Q5b8HXmCmpYps5Q"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hakan Özcan</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2018</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kriter</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sigorta Sahtecilik ve Suistimalleri Üzerine Bir Araştırma</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitap</dc:type>
+        <rdfs:label>Sahtecilik‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDxAyijAxooN8RUqjlKe34h -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDxAyijAxooN8RUqjlKe34h">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Vatana İhanet</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDSqxBP1ZBFACSXpQtxXQoT"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kaynaklarına  Göre Suç Türleri</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJs4nZ01IlsoTGGEEtxqY0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RJs4nZ01IlsoTGGEEtxqY0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9utLLTRZluaVbt0E2mlXrE"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lukas Moodysson</dc:contributor>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lars Jönsson</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memfis</dc:publisher>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Film</dc:type>
+        <rdfs:label>Çocuk kaçırma ile ilgili filmler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLobwhhLwwqNzGXwmZjiAr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RLobwhhLwwqNzGXwmZjiAr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCIDUmLLcY22ukh1dWqz8w6"/>
+        <rdfs:label>Bilgi uçurma‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ROqX2C7YntxmYru7QVbSV2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/ROqX2C7YntxmYru7QVbSV2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCx1ITV5FEWBBMNsbJ27gYV"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kerem Çatay</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</dc:date>
+        <dc:format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Televizyon dizisi</dc:format>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce &amp; Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Star TV (HD)</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Dakika</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Film</dc:type>
+        <rdfs:label>Dolandırıcılık ile ilgili televizyon dizileri‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RPGokh2OWzzHg2s99K9ex1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RPGokh2OWzzHg2s99K9ex1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCCyzDhF4pJXOMReGjZ65K3"/>
+        <rdfs:label>Irza geçme‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RRizrEZpFyXR0UX6kg4RBA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RRizrEZpFyXR0UX6kg4RBA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Ticari Suçlar</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RSQa61mZ8eUVOJQCLpxMeR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RSQa61mZ8eUVOJQCLpxMeR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7SRtFsAOVB36QotegQHrOi"/>
+        <rdfs:label>Etnik ayaklanmalar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RWZPWGogatBYZwONT5gk0s -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RWZPWGogatBYZwONT5gk0s">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7zrFydo57Uz2VLuZv8joh"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alan Parks</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nemesis Kitap</dc:publisher>
+        <dc:subject rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cinayet</dc:subject>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kanlı Ocak</dc:title>
+        <rdfs:label>Cinayet suçlamasıyla aranan kaçaklar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RY1XnCt8Qbo2wh6PjQOecr -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RY1XnCt8Qbo2wh6PjQOecr">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7zrFydo57Uz2VLuZv8joh"/>
+        <rdfs:label>Soykırım‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZ0fP2FmfsB7749tlePeX0 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZ0fP2FmfsB7749tlePeX0">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RRizrEZpFyXR0UX6kg4RBA"/>
+        <rdfs:label>Karteller‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZVrc1umJOUZaEYCVteR4c -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RZVrc1umJOUZaEYCVteR4c">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R4zsXk5V5yZtDJipYSGRD9"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hüseyin Hatemi</dc:creator>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">On İki Levha Yayıncılık</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kişiler Hukuku</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitap</dc:type>
+        <rdfs:label>Kaçırılmış kişiler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RanGWR4gov0W3khvOH2hu4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RanGWR4gov0W3khvOH2hu4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7zrFydo57Uz2VLuZv8joh"/>
+        <rdfs:label>Cinayet kurbanları</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RfHO4VXEcpgnxYXKrmlHLR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RfHO4VXEcpgnxYXKrmlHLR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBkbd009sOR3twIolC14Apn"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sibel Kılıçarslan İsfen</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dc:date>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jurix</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alman Ceza Kanununda Dolandırıcılık Suçunun Maddi Unsuru Olarak Aldatma</dc:title>
+        <rdfs:label>Alman dolandırıcılar‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RggA7f8sGN38za6WiujluB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RggA7f8sGN38za6WiujluB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8LlkuNI0rzmjYSdMapwmbp"/>
+        <rdfs:label>Vergi suçlarından hüküm giyenler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RjC27oGIGfMXSvkMtQqx4v -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RjC27oGIGfMXSvkMtQqx4v">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R95exQ0zRuHhksuIFpl6PH6"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kristian Vikernes</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1987</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce</dc:language>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Varg Vikernes</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Film</dc:type>
+        <rdfs:label>Norveçli Kundakçılar Film</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqavKSmYAt9OnDqlANQqzx -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RqavKSmYAt9OnDqlANQqzx">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R72ds3JnrbM53vxy24lkZU2"/>
+        <rdfs:label>Savaş suçlarından hüküm giyen kişiler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RqqLFsWpUshIjdBJAu6MTN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RqqLFsWpUshIjdBJAu6MTN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RzkymHEJ4YcBZMJnaulryN"/>
+        <rdfs:label>Ülkelerine göre yolsuzluk‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rtp3VaJpIxN7AfO9E2MBDu -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rtp3VaJpIxN7AfO9E2MBDu">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Kundaklama</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rtzv5YmdTM5bQAwrzGBaGO -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rtzv5YmdTM5bQAwrzGBaGO">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7oRYztSA1SCyhXkvQapTrB"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emel Çoşkun</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doğuş Üniveritesi</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye&apos;de Göçmen Kadınlar ve Seks Ticareti</dc:title>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Makale</dc:type>
+        <rdfs:label>Seks ticareti ile ilgili eserler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RvZVKYmUYnCfsgQkyU0Y6P -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RvZVKYmUYnCfsgQkyU0Y6P">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RY1XnCt8Qbo2wh6PjQOecr"/>
+        <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nuriye Zeybek</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</dc:date>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turkish</dc:language>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Kitap</dc:publisher>
+        <dc:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Soykırım</dc:title>
+        <rdfs:label>Soykırımla suçlanan kişiler‎</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RzkymHEJ4YcBZMJnaulryN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RzkymHEJ4YcBZMJnaulryN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RFQcIP7gwBdJZlXf7FK3n"/>
+        <rdfs:label>Yolsuzluk</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
